@@ -24,5 +24,5 @@ Scanning | Sample-based | Event-based
 1. Install [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [NumPy](https://numpy.org/), [scikit-learn](https://scikit-learn.org/stable/), [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) for plotting
 2. Download the [dataset](https://zenodo.org/record/7050094) from Zenodo
 3. Extract the files and add them in the main folder of this repository
-4. Run the jupiter notebook for the [feedforawrd SNN](https://github.com/event-driven-robotics/tactile_braille_reading/blob/main/notebooks/braille_reading_ffsnn.ipynb) and/or the [recurrent SNN](https://github.com/event-driven-robotics/tactile_braille_reading/blob/main/notebooks/braille_reading_rsnn.ipynb)
+4. Run the jupiter notebook for the [feedforawrd SNN](https://github.com/event-driven-robotics/tactile_braille_reading/blob/main/notebooks/braille_reading_ffsnn.ipynb) and/or the [recurrent SNN](https://github.com/event-driven-robotics/tactile_braille_reading/blob/main/notebooks/braille_reading_rsnn.ipynb) 
 5. If you want to use encoding thresholds not already contained run [this file](https://github.com/event-driven-robotics/tactile_braille_reading/blob/main/utils/event_transform.py) with your personal parameters again and change the data loading in the notebooks accordingly
